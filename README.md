@@ -9,7 +9,7 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 
 # 📚 Index
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
-* ⚡ [Steps to flash a GSI ROM](#flash-gsi)
+* ⚡ [How to flash a GSI ROM](#flash-gsi)
 * How to install Magisk: To Be Done
 * 🛠️ Magisk fixes: To Be Done
 * 🚀 [Acknowledgements](#acknowledgements)
@@ -25,7 +25,7 @@ Click on any of the ROMs listed here to see how they look and possible issues
 <br>
 <br>
 
-## ⚡ Steps to flash a GSI ROM: <a name=flash-gsi></a>
+## ⚡ How to flash a GSI ROM: <a name=flash-gsi></a>
 
 > [!TIP]  
 > I have recorded the whole process on this [video](https://www.youtube.com/watch?v=zQ0Guo1v9LA). I recommend you to take a look at it before flashing the ROMs.
@@ -33,6 +33,7 @@ Click on any of the ROMs listed here to see how they look and possible issues
 * Prerequisites:  
   * [Download ADB from the offical source](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
   * You will need the vbmeta.img file from the stock ROM (I have a link to it in [this video](https://www.youtube.com/watch?v=VaCjtUDoqXA&t=0s))
+  * A GSI ROM, in this example we will use [CDROID](/roms/cdroid.md)
 
 
 ### Commands: 
