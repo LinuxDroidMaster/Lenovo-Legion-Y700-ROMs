@@ -12,19 +12,42 @@ Thanks to vicenteMartinezY700 for [this post](https://xdaforums.com/t/how-to-ins
 > [!CAUTION]
 > Work in progress. Do not use yet (I will publish a Video when everything its ready and tested).
 
+* Prerequisites: Download ADB from the offical source.
+
 Commands in bulk (copied from XDA): 
 ```
 adb devices
+```
+```
 adb reboot bootloader
+```
+```
 fastboot devices
+```
+* In case your device is not recognized in fasboot mode: [How to install bootloader interface drivers](https://droidwin.com/install-google-android-bootloader-interface-drivers/)
+
+```
 fastboot --disable-verification flash vbmeta vbmeta.img
+```
+```
 fastboot reboot fastboot
+```
+```
 fastboot getvar is-userspace
+```
+```
 fastboot erase system
+```
+```
 fastboot delete-logical-partition product_b
+```
+```
 fastboot flash system crDroid\crDroid-10.0-arm64_bgN-Unofficial.img
 ```
+```
+fastboot reboot recovery
 
-* In case your device is not recognized in fasboot mode: [How to install bootloader interface drivers](https://droidwin.com/install-google-android-bootloader-interface-drivers/)
+```
+
 
 
