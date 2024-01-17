@@ -1,6 +1,7 @@
 # Lenovo-Legion-Y700-ROMs
 Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 model
 
+  
 > [!WARNING]  
 > Do this at your own risk. This process may brick your devices. You can unbrick using [this method](https://www.youtube.com/watch?v=VaCjtUDoqXA), but I am not responsible for any dagame caused to your device.
 
