@@ -20,7 +20,7 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 <br>
 
 ## ⚡ How to flash the CN stock ROM (ZUI 14 Android 13): <a name=stock-rom></a>
-You can check the process in this [video](https://www.youtube.com/watch?v=zQ0Guo1v9LA) or in the (XDA post)[https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/]
+You can check the process in this [video](https://www.youtube.com/watch?v=zQ0Guo1v9LA) or in the [XDA post](https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/)
 
 <br>
 <br>
