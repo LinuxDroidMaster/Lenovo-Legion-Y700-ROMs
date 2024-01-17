@@ -5,18 +5,25 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 > [!WARNING]  
 > Do this at your own risk. This process may brick your devices. You can unbrick using [this method](https://www.youtube.com/watch?v=VaCjtUDoqXA), but I am not responsible for any dagame caused to your device.
 
+</br>
 
-## Index
+# 📚 Index
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
 * ⚡ [Steps to flash a GSI ROM](#flash-gsi)
 * How to install Magisk: To Be Done
 * 🛠️ Magisk fixes: To Be Done
 * 🚀 [Acknowledgements](#acknowledgements)
 
+<br>
+<br>
+<br>
 
 ## ℹ️ GSI ROMs working in the Lenovo Legion Y700 2022: <a name=info></a>
 Click on any of the ROMs listed here to see how they look and possible issues
 * [CDROID](/roms/cdroid.md)
+
+<br>
+<br>
 
 ## ⚡ Steps to flash a GSI ROM: <a name=flash-gsi></a>
 
@@ -83,6 +90,7 @@ fastboot reboot recovery
 10. Select "Wipe Data / Factory Reset" and confirm
 11. Select "Reboot System now"
 
+<br>
 
 ## 🚀 Acknowledgements <a name=acknowledgements></a>
 Thanks to vicenteMartinezY700 for [this post](https://xdaforums.com/t/how-to-install-gsi-with-google-services-on-legion-y700-netflix-problem-solved-games-payment-issue-solved.4651090/) in XDA about the GSI ROMs and his help testing everything in this tablet. 
