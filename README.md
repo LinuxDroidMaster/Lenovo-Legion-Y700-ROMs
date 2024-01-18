@@ -26,6 +26,8 @@ You can check the process in this [video](https://www.youtube.com/watch?v=zQ0Guo
 <br>
 
 ## ℹ️ GSI ROMs working in the Lenovo Legion Y700 2022: <a name=info></a>
+Here you can find a [list with all the GSI ROMs](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list). Below I document the ones that I or someone else has already tested and we know they work fine, but if you have used any other ROM that is not in this list but works, please let me know (open an issue on Github, leave a comment on Youtube or send me a Telegram message). 
+
 Click on any of the ROMs listed here to see how they look and possible issues
 * [CDROID](/roms/cdroid.md)
 
