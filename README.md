@@ -66,7 +66,8 @@ adb reboot bootloader
 ```
 fastboot devices
 ```
-  * In case your device is not recognized in fasboot mode: [How to install bootloader interface drivers](https://droidwin.com/install-google-android-bootloader-interface-drivers/)
+> [!IMPORTANT]  
+> In case your device is not recognised in fasboot mode (device does not appear when you run the above command): [How to install bootloader interface drivers](https://droidwin.com/install-google-android-bootloader-interface-drivers/)
 
 4. Flash the vbmeta.img file (from the stock ROM or you can get it [here](https://xdaforums.com/t/how-to-install-gsi-with-google-services-on-legion-y700-netflix-problem-solved-games-payment-issue-solved.4651090/) too)
 ```
