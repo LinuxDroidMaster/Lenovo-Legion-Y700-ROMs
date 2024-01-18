@@ -9,6 +9,7 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 
 # 📚 Index
 * ⚡ [How to flash CN Stock ROM](#stock-rom) -> Unbrick device
+* ⚡ [How to sideload the Unofficial ZUI 15 OTA with Android 13](#unofficial-ota)
 * ⚡ [How to flash a GSI ROM](#flash-gsi)
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
 * How to install Magisk a.k.a How to Root the tablet: To Be Done - Meanwhile  can find a great post [here](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
@@ -19,8 +20,37 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 <br>
 <br>
 
-## ⚡ How to flash the CN stock ROM (ZUI 14 Android 13): <a name=stock-rom></a>
+## ⚡ How to flash the CN stock ROM (ZUI 14 Android 12): <a name=stock-rom></a>
 You can check the process in this [video](https://www.youtube.com/watch?v=zQ0Guo1v9LA) or in the [XDA post](https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/)
+
+<br>
+<br>
+
+## ⚡ How to sideload the Unofficial ZUI 15 OTA (ZUI 15 Android 13): <a name=unofficial-ota></a>
+You can check the process in this [video](https://www.youtube.com/watch?v=ZN-D9tlXCTM)
+
+* Prerequisites:  
+  * [Download ADB from the offical source](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
+  * Having the CN stock ROM already installed on your device, explained here: ⚡ [How to flash CN Stock ROM](#stock-rom)
+  * The OTA zip file (in the video description you have the links too):
+    * [OTA LINK OPTION 1 - MEGA](https://mega.nz/file/lOUxnIYT#EzAg7reYfJ8oy_82OzCtQFi8XbMdhb_2YYjvVIf1P90)
+    * [OTA LINK OPTION 2 - Official Lenovo page](https://mobile-ota-cdn.lenovo.com/firmware/2023111110434825-3726.zip&v=ZN-D9tlXCTM)
+
+### Commands: 
+1. Check that your PC recognize the device: 
+```
+adb devices
+```
+2. Restart the tablet in recovery mode
+```
+adb reboot recovery
+```
+3. In the recovery mode select "Apply update from ADB"
+4. Start sideloading the OTA update
+```
+adb sideload OTA_FILENAME.zip
+```
+5. Select "Reboot system now" in the recovery mode and the tablet will reboot with the new version of ZUI and Android
 
 <br>
 <br>
