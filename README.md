@@ -150,12 +150,17 @@ fastboot reboot recovery
 <br>
 
 ## 🦄 How to install Magisk (Root tablet): <a name=magisk></a>
-Work in Progress - Meanwhile you can find a great post [here](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
+
+### Long method: 
+Patch your own boot.img. The steps are desribed in the following [post](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
 
 ### Easy method: 
-* Download patched img and magisk from [here](https://drive.google.com/drive/folders/1E5BsgLwW4Yc_2-ajOklnAVocDODDGs2M)
+Video pending (I hope having it for next monday)
 
-#### Commands: 
+* Download patched img and magisk from [here](https://drive.google.com/drive/folders/1E5BsgLwW4Yc_2-ajOklnAVocDODDGs2M)
+* Follow the commands below
+
+#### Commands easy method: 
 1. Check that your device is detected in ADB
 ```
 adb devices
@@ -180,7 +185,7 @@ fastboot flash boot magiskPatchedBootB.img
 7. Select "Restar system now"
 8. Go to Magisk and reboot the device from there
 9. Check that the installation has been carried out correctly
-TBD image
+![](/images/magisk/magisk.png)
 
 <br>
 
