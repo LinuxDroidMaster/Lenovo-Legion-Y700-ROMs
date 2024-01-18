@@ -31,6 +31,12 @@ Here you can find a [list with all the GSI ROMs](https://github.com/phhusson/tre
 Click on any of the ROMs listed here to see how they look and possible issues
 * [CDROID](/roms/cdroid.md)
 
+ROMs tested by other users that I have not yet documented: 
+* ElixirRom -> boot loop,
+* EvolutionX -> working
+* Google AOSP -> working
+* LEOSU -> working
+
 <br>
 <br>
 
