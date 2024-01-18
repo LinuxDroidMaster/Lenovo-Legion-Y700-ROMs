@@ -12,6 +12,9 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 * ⚡ [How to sideload the Unofficial ZUI 15 OTA with Android 13](#unofficial-ota)
 * ⚡ [How to flash a GSI ROM](#flash-gsi)
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
+  
+<br>
+
 * 🦄 [How to install Magisk (Root tablet)](#magisk)
 * 🛠️ Magisk fixes: To Be Done
 * 🚀 [Acknowledgements](#acknowledgements)
