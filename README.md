@@ -11,7 +11,7 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
 * ⚡ [How to flash CN Stock ROM](#stock-rom)
 * ⚡ [How to flash a GSI ROM](#flash-gsi)
-* How to install Magisk: To Be Done - Meanwhile  can find a great post [here](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
+* How to install Magisk a.k.a How to Root the tablet: To Be Done - Meanwhile  can find a great post [here](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
 * 🛠️ Magisk fixes: To Be Done
 * 🚀 [Acknowledgements](#acknowledgements)
 
