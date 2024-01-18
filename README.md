@@ -35,7 +35,7 @@ ROMs tested by other users that I have not yet documented:
 * ElixirRom -> boot loop,
 * EvolutionX -> working
 * Google AOSP -> working
-* LEOSU -> working
+* LeOS U -> working
 
 <br>
 <br>
