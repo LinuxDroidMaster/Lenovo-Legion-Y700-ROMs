@@ -1,4 +1,4 @@
-# CDroid ROM
+# CRDroid ROM
 
 * Download link: https://github.com/naz664/crDroid_gsi/releases
 * Select the `crDroid-10.0-arm64_bgN-Unofficial.img.xz` image

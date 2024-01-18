@@ -68,7 +68,7 @@ adb sideload OTA_FILENAME.zip
 Here you can find a [list with all the GSI ROMs](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list). Below I document the ones that I or someone else has already tested and we know they work fine, but if you have used any other ROM that is not in this list but works, please let me know (open an issue on Github, leave a comment on Youtube or send me a Telegram message). 
 
 Click on any of the ROMs listed here to see how they look and possible issues
-* [CDROID](/roms/cdroid.md)
+* [CRDROID](/roms/crdroid.md)
 
 ROMs tested by other users that I have not yet documented: 
 * ElixirRom -> boot loop,
@@ -87,7 +87,7 @@ ROMs tested by other users that I have not yet documented:
 * Prerequisites:  
   * [Download ADB from the offical source](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
   * You will need the vbmeta.img file from the stock ROM (I have a link to it in [this video](https://www.youtube.com/watch?v=VaCjtUDoqXA&t=0s))
-  * A GSI ROM, in this example we will use [CDROID](/roms/cdroid.md)
+  * A GSI ROM, in this example we will use [CRDROID](/roms/crdroid.md)
 
 
 ### Commands: 
@@ -133,7 +133,7 @@ fastboot erase system
 fastboot delete-logical-partition product_b
 ```
 
-8. Flash the GSI ROM, for this example we are using [CDROID](/roms/cdroid.md)
+8. Flash the GSI ROM, for this example we are using [CRDROID](/roms/crdroid.md)
 ```
 fastboot flash system crDroid-10.0-arm64_bgN-Unofficial.img
 ```
