@@ -13,4 +13,8 @@
 * The switch button is not mapped to anything. You can map it with this [app](https://play.google.com/store/apps/details?id=io.github.sds100.keymapper&hl=es&gl=US)
 
 # ROM images
-TBD
+![](/images/cdroid/1.jpg)
+![](/images/cdroid/2.jpg)
+![](/images/cdroid/3.jpg)
+![](/images/cdroid/4.jpg)
+![](/images/cdroid/5.jpg)
