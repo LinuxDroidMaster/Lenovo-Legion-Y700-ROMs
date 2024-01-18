@@ -26,7 +26,7 @@ You can check the process in this [video](https://www.youtube.com/watch?v=VaCjtU
 Links: 
 * [Download ADB from the offical source](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
 * [QFIL - Direct Link](https://qpsttool.com/qpst-tool-v2-7-496)
-* [ZUI 14 Stock CN ROM (the one I used in the video](https://drive.google.com/file/d/1P-8sFTtID0StfhNnf1kkROhzv0wHovun/view?usp=sharing)
+* [ZUI 14 Stock CN ROM (the one I used in the video)](https://drive.google.com/file/d/1P-8sFTtID0StfhNnf1kkROhzv0wHovun/view?usp=sharing)
 
 Other alternatives: 
 * [All the above filles needed in 1 zip file - MEGA](https://mega.nz/file/8XU1kLgT#GVKDjBmvmJgXYfxIUEHSxsxSqLjMDmjixbV-W9GYM9w)
