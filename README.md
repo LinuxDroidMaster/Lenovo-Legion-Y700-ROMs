@@ -12,7 +12,7 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 * ⚡ [How to sideload the Unofficial ZUI 15 OTA with Android 13](#unofficial-ota)
 * ⚡ [How to flash a GSI ROM](#flash-gsi)
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
-* How to install Magisk a.k.a How to Root the tablet: To Be Done - Meanwhile you can find a great post [here](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
+* 🦄 [How to install Magisk (Root tablet)](#magisk)
 * 🛠️ Magisk fixes: To Be Done
 * 🚀 [Acknowledgements](#acknowledgements)
 
@@ -145,6 +145,39 @@ fastboot reboot recovery
 
 10. Select "Wipe Data / Factory Reset" and confirm
 11. Select "Reboot System now"
+
+<br>
+<br>
+
+## 🦄 How to install Magisk (Root tablet): <a name=magisk></a>
+Work in Progress - Meanwhile you can find a great post [here](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
+
+### Commands: 
+1. Check that your device is detected in ADB
+```
+adb devices
+```
+2. Install Magisk apk (you can do it by sending the apk to the device or by using the command below)
+```
+adb install Magisk.apk
+```
+3. Reboot to bootlaoder
+```
+adb reboot bootloader
+```
+4. Check that your device is detected in fastboot mode
+```
+fastboot devices
+```
+5. Flash the patched boot.img
+```
+fastboot flash boot magiskPatchedBootB.img
+```
+6. Restart to recovery selecting "Restart recovery" (move up/down with vol+/- and confirm with the lock button)
+7. Select "Restar system now"
+8. Go to Magisk and reboot the device from there
+9. Check that the installation has been carried out correctly
+TBD image
 
 <br>
 
