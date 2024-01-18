@@ -3,6 +3,11 @@
 * Download link: https://github.com/naz664/crDroid_gsi/releases
 * Select the `crDroid-10.0-arm64_bgN-Unofficial.img.xz` image
 
+# Features of this ROM: 
+* Android 14
+* It has a lot of customization settings
+* Gaming mode (but different from the stock ROM)
+* Google Play fully functional
 
 # Recommended Settings
 * Enable lock screen rotation: Go to Settings > search "rotation" > select "Rotate lock screen" > enable it
