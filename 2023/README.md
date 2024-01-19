@@ -5,20 +5,13 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2023 
 ### 🚧 Under Construction 🚧
 
 > [!WARNING]
-> Do this at your own risk. This process may brick your devices. You can unbrick using [this method](https://www.youtube.com/watch?v=VaCjtUDoqXA), but I am not responsible for any damage caused to your device.
+> Do this at your own risk. This process may brick your devices. You can use [this video](https://www.youtube.com/watch?v=VaCjtUDoqXA) as a reference (it is for the 2022 model) but I am not responsible for any damage caused to your device.
 
 </br>
 
 # 📚 Index
 
-ROMs:
-
-- ⚡ [How to flash unofficial global rom](#global-rom)
-
-<br>
-
-Utilities:
-
+- ⚡ [How to flash unofficial global rom - NEC](#global-rom)
 - 🚀 [Acknowledgements](#acknowledgements)
 
 <br>
@@ -45,19 +38,25 @@ Links:
 #### Unlock Device
 
 1. Toggle developer mode by tapping the version in About many times
-1. Go to general settings
-1. Enable usb debugging
-1. Enable oem unlocking
-1. Install [motorola drivers](https://en-us.support.motorola.com/app/answers/detail/a_id/88481/)
-1. Copy [setup-tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419) after unzipping
-1. Set device to fastboot
+2. Go to general settings
+3. Enable usb debugging
+4. Enable oem unlocking
+5. Install [motorola drivers](https://en-us.support.motorola.com/app/answers/detail/a_id/88481/)
+6. Copy [setup-tools](https://developer.android.com/studio/releases/platform-tools?hl=es-419) after unzipping
+7. Set device to fastboot
    - Hold volume up button and then power button until fastboot screen appears
-1. Plug in device in on the long side usb
-1. Open command prompt in the file explorer
-1. Run `fastboot devices`
-1. Should see a device listed
-1. Run `fastboot oem unlock-go`
-1. Device will restart
+8. Plug in device in on the long side usb
+9. Open command prompt in the file explorer
+10. Run
+```
+fastboot devices
+```
+11. Should see a device listed
+12. Run
+```
+fastboot oem unlock-go
+```
+13. Device will restart
 
 #### Flash ROM
 
@@ -87,6 +86,7 @@ Links:
 <br>
 
 ## ℹ️ GSI ROMs working in the Lenovo Legion Y700 2023: <a name=info></a>
+Feel free to add all the info you know about GSI ROMs working on the Lenovo Legion Y700 2023 :)
 
 
 
