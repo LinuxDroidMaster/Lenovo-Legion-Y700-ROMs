@@ -1,6 +1,8 @@
-# Lenovo Legion Y700 2023 ROMs
+# Lenovo Legion Y700 2023 (TB320FC) ROMs
 
 Repo with all the info about the ROMs available for the Lenovo Legion Y700 2023 model
+
+### 🚧 Under Construction 🚧
 
 > [!WARNING]
 > Do this at your own risk. This process may brick your devices. You can unbrick using [this method](https://www.youtube.com/watch?v=VaCjtUDoqXA), but I am not responsible for any damage caused to your device.
@@ -86,8 +88,8 @@ Links:
 
 ## ℹ️ GSI ROMs working in the Lenovo Legion Y700 2023: <a name=info></a>
 
-### 🚧 Under Construction 🚧
+
 
 ## 🚀 Acknowledgements <a name=acknowledgements></a>
 
-Thanks to vicenteMartinezY700 for [this post](https://xdaforums.com/t/how-to-install-gsi-with-google-services-on-legion-y700-netflix-problem-solved-games-payment-issue-solved.4651090/) in XDA about the GSI ROMs and his help testing everything in this tablet.
+Thanks to blueberryapple for his help adding the 2023 model info.
