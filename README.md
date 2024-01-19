@@ -21,7 +21,7 @@ Utilities:
 * 🛠️ Magisk fixes: To Be Done
 * 🚀 [Acknowledgements](#acknowledgements)
 
-<br>
+---
 <br>
 
 ## ⚡ How to flash the CN stock ROM (ZUI 14 Android 12): <a name=stock-rom></a>
@@ -36,7 +36,7 @@ Other alternatives:
 * [All the above filles needed in 1 zip file - MEGA](https://mega.nz/file/8XU1kLgT#GVKDjBmvmJgXYfxIUEHSxsxSqLjMDmjixbV-W9GYM9w)
 * [Other place with OTAs and stock ROMs - Sourceforge](https://sourceforge.net/projects/lenovo-y700/files/TB9707F/) thanks to [terajima-alc](https://terajima-alc.dev/)
 
-<br>
+---
 <br>
 
 ## ⚡ How to sideload the Unofficial ZUI 15 OTA (ZUI 15 Android 13): <a name=unofficial-ota></a>
@@ -65,7 +65,7 @@ adb sideload OTA_FILENAME.zip
 ```
 5. Select "Reboot system now" in the recovery mode and the tablet will reboot with the new version of ZUI and Android
 
-<br>
+---
 <br>
 
 ## ℹ️ GSI ROMs working in the Lenovo Legion Y700 2022: <a name=info></a>
@@ -80,7 +80,7 @@ ROMs tested by other users that I have not yet documented:
 * Google AOSP -> working
 * LeOS U -> working
 
-<br>
+--- 
 <br>
 
 ## ⚡ How to flash a GSI ROM: <a name=flash-gsi></a>
@@ -150,7 +150,7 @@ fastboot reboot recovery
 10. Select "Wipe Data / Factory Reset" and confirm
 11. Select "Reboot System now"
 
-<br>
+--- 
 <br>
 
 ## 🦄 How to install Magisk (Root tablet): <a name=magisk></a>
@@ -191,9 +191,10 @@ fastboot flash boot magiskPatchedBootB.img
 9. Check that the installation has been carried out correctly
 ![](/images/magisk/magisk.png)
 
+---  
 <br>
 
 ## 🚀 Acknowledgements <a name=acknowledgements></a>
 Thanks to vicenteMartinezY700 for [this post](https://xdaforums.com/t/how-to-install-gsi-with-google-services-on-legion-y700-netflix-problem-solved-games-payment-issue-solved.4651090/) in XDA about the GSI ROMs and his help testing everything in this tablet. 
-
+---  
 
