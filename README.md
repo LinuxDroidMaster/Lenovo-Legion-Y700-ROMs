@@ -121,6 +121,7 @@ fastboot --disable-verification flash vbmeta vbmeta.img
 ```
 fastboot reboot fastboot
 ```
+And select "Enter fasboot" in the menu
 
 6. Check you are using a user space
 ```
