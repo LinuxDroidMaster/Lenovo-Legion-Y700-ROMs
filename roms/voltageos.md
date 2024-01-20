@@ -10,6 +10,7 @@
 
 # Recommended Settings
 * Force 120 fps screen refresh reate: Go to Settings > Phh Treble Settings > Misc features > Force FPS > select `1600x2560@120.00001`
+* Enable lock screen rotation: Go to Settings > search "rotation" > select "Rotate lock screen" > enable it
 
 # Issues: 
 * Double tap to wake does not work (is fixable with Magisk)
