@@ -74,6 +74,7 @@ Here you can find a [list with all the GSI ROMs](https://github.com/phhusson/tre
 Click on any of the ROMs listed here to see how they look and possible issues
 * [CRDROID](/roms/crdroid.md)
 * [EvolutionX](/roms/evolution.md)
+* [Voltage OS](/roms/voltageos.md)
 * [Google AOSP](/roms/google_aosp.md)
 * [LeOS U](/roms/leosu.md)
 
