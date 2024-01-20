@@ -77,9 +77,8 @@ Click on any of the ROMs listed here to see how they look and possible issues
 * [Voltage OS](/roms/voltageos.md)
 * [Google AOSP](/roms/google_aosp.md)
 * [LeOS U](/roms/leosu.md)
+* [Elixir Project](/roms/elixir.md)
 
-ROMs tested by other users that I have not yet documented: 
-* ElixirRom -> boot loop
 
 --- 
 <br>
