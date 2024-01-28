@@ -174,7 +174,7 @@ adb devices
 ```
 adb install Magisk.apk
 ```
-3. Reboot to bootlaoder
+3. Reboot to bootloader
 ```
 adb reboot bootloader
 ```
