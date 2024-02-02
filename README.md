@@ -160,7 +160,7 @@ fastboot reboot recovery
 Patch your own boot.img. The steps are desribed in the following [post](https://xdaforums.com/t/gsi-rom-install-magisk-with-no-root-on-gsi-rom-dsu-method.4651428/)
 
 ### Easy method: 
-Video pending (I hope having it for next monday)
+[Guide in Video](https://www.youtube.com/watch?v=eVR1i7yASXA)
 
 * Download patched img and magisk from [here](https://drive.google.com/drive/folders/1E5BsgLwW4Yc_2-ajOklnAVocDODDGs2M)
 * Follow the commands below
