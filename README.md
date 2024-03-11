@@ -25,6 +25,10 @@ Utilities:
 <br>
 
 ## ⚡ How to flash Official CN Stock ROM (ZUI 14 Android 12 or ZUI 15 Android 13): <a name=stock-rom></a>
+
+> [!WARNING]  
+> You need to have your bootloader unlocked to follow the process. Check this post in case you don't have it unlocked:  [XDA post](https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/)
+
 * ZUI 14, Android 12: You can check the process in this [video](https://www.youtube.com/watch?v=VaCjtUDoqXA) or in the [XDA post](https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/)
 * ZUI 15, Android 13: You can check the process in this [video](https://www.youtube.com/watch?v=aEHFUM-yLt0)
 
