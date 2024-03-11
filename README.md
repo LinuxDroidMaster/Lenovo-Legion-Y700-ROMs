@@ -9,7 +9,7 @@ Repo with all the info about the ROMs available for the Lenovo Legion Y700 2022 
 
 # 📚 Index
 ROMs: 
-* ⚡ [How to flash CN Stock ROM](#stock-rom) -> Unbrick device
+* ⚡ [How to flash Official CN Stock ROM (ZUI 14 Android 12 or ZUI 15 Android 13)](#stock-rom) -> Unbrick device
 * ⚡ [How to sideload the Unofficial ZUI 15 OTA with Android 13](#unofficial-ota)
 * ⚡ [How to flash a GSI ROM](#flash-gsi)
 * ℹ️ [GSI ROMs working in the Lenovo Legion Y700 2022](#info)
@@ -24,13 +24,15 @@ Utilities:
 ---
 <br>
 
-## ⚡ How to flash the CN stock ROM (ZUI 14 Android 12): <a name=stock-rom></a>
-You can check the process in this [video](https://www.youtube.com/watch?v=VaCjtUDoqXA) or in the [XDA post](https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/)
+## ⚡ How to flash Official CN Stock ROM (ZUI 14 Android 12 or ZUI 15 Android 13): <a name=stock-rom></a>
+* ZUI 14, Android 12: You can check the process in this [video](https://www.youtube.com/watch?v=VaCjtUDoqXA) or in the [XDA post](https://xdaforums.com/t/guide-unbrick-lenovo-y700-tablet.4509297/)
+* ZUI 15, Android 13: You can check the process in this [video](https://www.youtube.com/watch?v=aEHFUM-yLt0)
 
 Links: 
 * [Download ADB from the offical source](https://developer.android.com/studio/releases/platform-tools?hl=es-419)
 * [QFIL - Direct Link](https://qpsttool.com/qpst-tool-v2-7-496)
-* [ZUI 14 Stock CN ROM (the one I used in the video)](https://drive.google.com/file/d/1P-8sFTtID0StfhNnf1kkROhzv0wHovun/view?usp=sharing)
+* [ZUI 14 Stock CN ROM](https://drive.google.com/file/d/1P-8sFTtID0StfhNnf1kkROhzv0wHovun/view?usp=sharing)
+* [ZUI 15 Stock CN ROM](https://drive.google.com/file/d/16PRQV0eE2F2GTm9eaFuoZoqGZgWcSTL_/view?usp=sharing)
 
 Other alternatives: 
 * [All the above filles needed in 1 zip file - MEGA](https://mega.nz/file/8XU1kLgT#GVKDjBmvmJgXYfxIUEHSxsxSqLjMDmjixbV-W9GYM9w)
