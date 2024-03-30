@@ -170,6 +170,7 @@ Patch your own boot.img. The steps are desribed in the following [post](https://
 
 * Download patched img and magisk from [here](https://drive.google.com/drive/folders/1E5BsgLwW4Yc_2-ajOklnAVocDODDGs2M)
 * Follow the commands below
+* In case you have problems with Wifi not turning ON after flashing the boot.img file, try [this one](https://drive.google.com/drive/folders/1a1U9GSA1s9nI_qJzYPyn3HctFsb_p2xX?usp=sharing) instead. (Thanks to Son Kun on Discord)
 
 #### Commands easy method: 
 1. Check that your device is detected in ADB
