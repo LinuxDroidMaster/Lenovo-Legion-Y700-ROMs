@@ -17,7 +17,7 @@
 * Can't use the Criterion Channel correctly, which requires Google Widevine L3 + HDCP v1, So I think Netflix and other DRM-related streaming services probably don't work(though I didn't test them yet).
 
 # ROM images
-![](/2023/images/cdroid/1.jpg)
-![](/2023/images/cdroid/2.jpg)
-![](/2023/images/cdroid/3.jpg)
-![](/2023/images/cdroid/4.jpg)
+![](/2023/images/crdroid/1.jpg)
+![](/2023/images/crdroid/2.jpg)
+![](/2023/images/crdroid/3.jpg)
+![](/2023/images/crdroid/4.jpg)
