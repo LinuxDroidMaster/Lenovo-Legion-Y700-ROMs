@@ -86,8 +86,13 @@ fastboot oem unlock-go
 <br>
 
 ## ℹ️ GSI ROMs working in the Lenovo Legion Y700 2023: <a name=info></a>
-Feel free to add all the info you know about GSI ROMs working on the Lenovo Legion Y700 2023 :)
 
+Here you can find a [list with all the GSI ROMs](https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-%28GSI%29-list). Below I document the ones that I or someone else has already tested and we know they work fine, but if you have used any other ROM that is not in this list but works, please let me know (open an issue on Github, leave a comment on Youtube or send me a Telegram message). 
+
+Click on any of the ROMs listed here to see how they look and possible issues
+* [CRDROID](/2023/roms/crdroid.md)
+
+Feel free to add all the info you know about other GSI ROMs working on the Lenovo Legion Y700 2023 :)
 
 
 ## 🚀 Acknowledgements <a name=acknowledgements></a>
